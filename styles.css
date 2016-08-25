@@ -1,0 +1,19 @@
+body {
+  transition: background-color 0.5s;
+
+  color: white;
+  font-size: 100%;
+  text-align: center;
+
+  margin: 3rem;
+}
+
+#clock {
+  font-family: 'Blogger Sans', sans-serif;
+  font-size: 5rem;
+}
+
+#htmlColour {
+  font-family: 'Fira Mono', monospace;
+  font-size: 3rem;
+}
